@@ -1,0 +1,30 @@
+{
+  "name": "psa-assignment",
+  "version": "1.0.0",
+  "description": "psa-assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "test-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-murugavel/psa-assignment.git"
+  },
+  "author": "Murugavel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n-murugavel/psa-assignment/issues"
+  },
+  "homepage": "https://github.com/n-murugavel/psa-assignment#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-resource": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "jquery": "^3.1.0",
+    "requirejs": "^2.3.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {}
+}
